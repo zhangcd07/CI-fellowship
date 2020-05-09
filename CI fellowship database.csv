@@ -1,0 +1,40 @@
+﻿Programs,City,State,Region,Participating ERAS,CV,Personal statement,Medical school transcript,Letters of recommendation,Dean's letter (MSPE),USMLE/COMLEX transcript,Letter from program director,Letter of verification for completion of residency,Verification of previous staff positions,Letter from a reference with Clinical Informatics experience,ECFMG(if you are an international medical school graduate),Diploma from medical school,lat,lon
+Cedars Sinai,Los Angeles,California,Pacific,TRUE,TRUE,TRUE,TRUE,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,34.077631,-118.380111
+UCLA,Los Angeles,California,Pacific,TRUE,,,,,,,,,,,,,34.026888,-118.486644
+Stanford,Menlo Park,California,Pacific,TRUE,TRUE,TRUE,TRUE,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,37.439809,-122.178026
+UC Irvine,Orange,California,Pacific,TRUE,,,,,,,,,,,,,33.787366,-117.888767
+UCSD,San Diego,California,Pacific,TRUE,TRUE,TRUE,TRUE,3,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,32.751382,-117.162128
+UCSF,San Francisco,California,Pacific,TRUE,TRUE,TRUE,FALSE,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,,FALSE,37.764462,-122.459831
+Oregon Health & Science University,Portland,Oregon,Pacific,TRUE,TRUE,TRUE,TRUE,3,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,,FALSE,45.499598,-122.684849
+University of Washington,Seattle,Washington,Pacific,TRUE,,,,,,,,,,,,,47.651116,-122.308534
+Madigan Army Medical Center,Tacoma,Washington,Pacific,FALSE,,,,,,,,,,,,,47.109912,-122.552081
+Yale-New Haven Medical Center,New Haven,Connecticut,New England,TRUE,TRUE,TRUE,TRUE,3,,TRUE,TRUE,FALSE,FALSE,TRUE,,FALSE,41.315889,-72.936316
+Children's Hospital/Boston Medical Center,Boston,Massachusetts,New England,TRUE,,,,,,,,,,,,,42.335471,-71.073049
+Beth Israel Deaconess Medical Center,Brookline,Massachusetts,New England,TRUE,TRUE,TRUE,TRUE,3,,TRUE,TRUE,FALSE,FALSE,FALSE,,FALSE,42.337469,-71.109827
+Icahn School of Medicine at Mount Sinai,New York,New York,Mid Atlantic,TRUE,,,,,,,,,,,,,40.790056,-73.95334
+NYU Grossman School of Medicine,New York,New York,Mid Atlantic,FALSE,,,,,,,,,,,,,40.750304,-73.973982
+New York Presbyterian Hospital (Columbia Campus),New York,New York,Mid Atlantic,TRUE,,,,,,,,,,,,,40.764639,-73.954318
+Geisinger Health System,Danville,Pennsylvania,Mid Atlantic,TRUE,,,,,,,,,,,,,40.970549,-76.60352
+Children's Hospital of Philadelphia,Philadelphia,Pennsylvania,Mid Atlantic,TRUE,TRUE,TRUE,TRUE,3,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,,FALSE,39.94783,-75.19531
+University of Chicago,Chicago,Illinois,East North Central,TRUE,TRUE,TRUE,TRUE,3,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,,FALSE,41.788952,-87.604249
+Indiana University School of Medicine,Indianapolis,Indiana,East North Central,TRUE,,,,,,,,,,,,,39.782156,-86.165211
+Kettering Health Network/Indu and Raj Soin Medical Center,Beavercreek,Ohio,East North Central,FALSE,,,,,,,,,,,,,39.771375,-84.062516
+Case Western Reserve University (MetroHealth),Cleveland,Ohio,East North Central,TRUE,,,TRUE,,TRUE,TRUE,,,,,,,41.461137,-81.698798
+Ohio State University Hospital,Columbus,Ohio,East North Central,TRUE,,,,,,,,,,,,,39.997395,-83.016726
+Hennepin Healthcare,Minneapolis,Minnesota,West North Central,FALSE,TRUE,TRUE,TRUE,3,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,44.973529,-93.261842
+Sidney Kimmel Medical College at Thomas Jefferson University/Christiana Care Health Services,New Castle,Delaware,South Atlantic,TRUE,TRUE,TRUE,TRUE,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,39.948887,-75.157867
+University of North Carolina Hospitals,Chapel Hill,North Carolina,South Atlantic,TRUE,,,,,,,,,,,,,35.904189,-79.051502
+Duke University Hospital,Durham,North Carolina,South Atlantic,TRUE,,,,,,,,,,,,,36.007705,-78.938324
+University of Virginia Medical Center,Charlottesville,Virginia,South Atlantic,TRUE,,,,,,,,,,,,,38.032454,-78.500663
+Vanderbilt University Medical Center,Nashville,Tennessee,East South Central,TRUE,TRUE,TRUE,TRUE,3,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,36.142514,-86.802596
+University of Arkansas for Medical Sciences,Little Rock,Arkansas,West South Central,TRUE,,,,,,,,,,,,,34.748961,-92.320929
+McLennan County Medical Education and Research Foundation,Waco,Texas,West South Central,TRUE,,,,,,,,,,,,,31.559226,-97.152905
+University of Arizona College of Medicine-Phoenix,Phoenix,Arizona,Mountain,TRUE,,,,,,,,,,,,,33.453499,-112.065617
+HonorHealth,Scottsdale,Arizona,Mountain,FALSE,TRUE,TRUE,,,,TRUE,,,,,TRUE,FALSE,33.489048,-111.923202
+University of New Mexico School of Medicine,Albuquerque,New Mexico,Mountain,TRUE,,,,,,,,,,,,,35.090068,-106.618067
+Mayo Clinic College of Medicine and Science (Rochester),Rochester,Minnesota,West North Central,FALSE,TRUE,TRUE,TRUE,2,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,44.022564,-92.466763
+Stony Brook Medicine/University Hospital,Stony Brook,New York,Mid Atlantic,TRUE,,,,,,,,,,,,,40.909011,-73.114852
+Methodist Hospital (Houston),Houston,Texas,West South Central,FALSE,,,,,,,,,,,,,29.710886,-95.399568
+University of California Davis Health,Sacramento,California,Pacific,FALSE,TRUE,TRUE,FALSE,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,38.552584,-121.451821
+University of Illinois College of Medicine at Chicago ,Chicago,Illinois,East North Central,TRUE,,,,,,,,,,,,,41.870694,-87.672645
+University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine,San Antonio,Texas,West South Central,FALSE,,,,,,,,,,,,,29.507656,-98.576418
