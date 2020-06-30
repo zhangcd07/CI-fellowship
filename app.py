@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 st.title('Clinical Informatics Fellowship Application Tool')
-st.write('5/2020 *version 1.0*')
+st.write('7/2020 *version 1.1*')
 st.markdown('by *Chengda Zhang, MD*')
 data=pd.read_csv('CI fellowship database.csv')
 data=data.set_index(['Programs'])
@@ -67,4 +67,4 @@ else:
             st.subheader('specific data for each program')
             st.write(selected_data.iloc[:-1,0:16])
 
-st.markdown('Data is extracted from FREIDA, AMIA, and program websites. More updates to our database will be available when ERAS opens in 6/2020.')       
+st.markdown('Data is extracted from FREIDA, AMIA, ERAS and program websites. No new updates were found in ERAS since its opening in 6/2020.')       
