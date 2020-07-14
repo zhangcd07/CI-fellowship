@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 st.title('Clinical Informatics Fellowship Application Tool')
-st.write('7/2020 *version 1.1*')
+st.write('7/14/2020 *version 1.2*')
 st.markdown('by *Chengda Zhang, MD*')
 data=pd.read_csv('CI fellowship database.csv')
 data=data.set_index(['Programs'])
@@ -63,8 +63,14 @@ else:
             st.write('The following programs does not participate in ERAS, please contact the program for more information:')
             st.write(selected_data[selected_data['Participating ERAS']==False].index)
 
+        if 'Yes' in list(selected_data['Pathology graduates only']):
+                st.write('The following programs ONLY accept pathology graduates:')
+                st.write(selected_data[selected_data['Pathology graduates only']=='Yes'].index)
+
         if st.checkbox("Show specific data for each program", False):
             st.subheader('specific data for each program')
             st.write(selected_data.iloc[:-1,0:16])
-
-st.markdown('Data is extracted from FREIDA, AMIA, ERAS and program websites. No new updates were found in ERAS since its opening in 6/2020.')       
+st.markdown(' ')
+st.markdown(' ')
+st.markdown('This app is created mainly for non-pathology graduates, while all programs (pathology and non-pathology based) are included, some program may not accept pathology graduates. Please check with the programs.')
+st.markdown('Data is extracted from FREIDA, AMIA, ERAS and program websites. No new updates were found in ERAS since its opening in 6/2020. Please contact me at zhangcd07@outlook.com with questions.')       
